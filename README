@@ -1,0 +1,7 @@
+To run the program give a command like this: ./oss -v -n 5 -s 2 -t 3 -f log.txt As for the values provided: n is number of child processes to be forked. s is the number of child processes to run simultaneously. t is the interval in which a new process is forked meaning every t nanoseconds an new process is forked. f is the file that will be written to, to display the various messages printed by oss.
+
+As far as I can tell there are no issues with the program.
+
+I didn't too many major issues when working on this project outside of minor bugs.  The only issue I really had was debugging.  With the subject of this project being rather complicated I found myself second guessing whether something was running as intended or was bugged quite often.
+
+
